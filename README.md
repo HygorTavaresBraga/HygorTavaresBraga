@@ -33,7 +33,7 @@
 ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
-![WORDPRESS](https://img.shields.io/badge/Wordpress-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+![WORDPRESS](https://img.shields.io/badge/Wordpress-777BB4?style=for-the-badge&logo=wordpress&logoColor=white)&nbsp;
 ![JAVA](https://img.shields.io/badge/Java-E62B29?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![GIT](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)&nbsp;
